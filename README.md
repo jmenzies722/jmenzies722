@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Josh M</h1>
 <h3 align="center">Passion For building Web and mobile application with Full Stack</h3>
-<img align=“right” alt=“Coding” width=“400” src=https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif>
+
 
 <p align="left"> <a href="https://twitter.com/jmenzies722" target="blank"><img src="https://img.shields.io/twitter/follow/jmenzies722?logo=twitter&style=for-the-badge" alt="jmenzies722" /></a> </p>
 
