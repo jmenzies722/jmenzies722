@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome! I'm Josh</h1>
 
 <p align="center">
-  <a href="https://jmenzies722.github.io/Portfolio/" target="_blank">Portfolio</a> •
+  <a href="https://jmenzies722.github.io/Portfolio/" target="_blank">Website</a> •
   <a href="mailto:jmenzies722@gmail.com">Email</a> •
   <a href="https://linkedin.com/in/josh-m123456" target="_blank">LinkedIn</a>
 </p>
