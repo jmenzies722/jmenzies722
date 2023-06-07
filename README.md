@@ -9,6 +9,7 @@ Backend: Node.js, Express.js
 Databases: SQL, MongoDB
 Machine Learning: TensorFlow, Pandas
 Languages: Python, JavaScript, TypeScript, C++, Java
+
 🔥 Projects:
 Check out my 🔗 GitHub for a collection of projects showcasing my software skills. From web development with React.js to data manipulation with Python, I've explored various technologies essential for an entry-level software engineer. Each project reflects my continuous learning and passion for software development.
 
