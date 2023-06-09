@@ -6,13 +6,12 @@
   <a href="https://linkedin.com/in/josh-m123456" target="_blank">LinkedIn</a>
 </p>
 
-<p align="center"><img src="assets/your-gif.gif" width="100%"></p>
 
 <h3 align="center">🚀 Software Engineer | Web Developer | Data Enthusiast</h3>
 
 <p align="center">I'm a passionate software engineer with a diverse tech stack and a love for creating impactful applications and solutions. Let's connect and create something amazing together!</p>
 
-<p align="center"><img src="https://media.giphy.com/media/l4lRdl315eruX7S6Y/giphy-downsized-large.gif" width="100%"></p>
+
 
 ## 🎓 Education
 
