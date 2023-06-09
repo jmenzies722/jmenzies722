@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi! I'm Josh</h1>
+<h1 align="center">👋 I'm Josh. Welcome! 🚀</h1>
 
 <p align="center">
   <a href="https://jmenzies722.github.io/Portfolio/" target="_blank">Website</a> •
@@ -6,16 +6,20 @@
   <a href="https://linkedin.com/in/josh-m123456" target="_blank">LinkedIn</a>
 </p>
 
-### 🚀 Software Engineer | Web Developer | Data Enthusiast
+<p align="center"><img src="assets/your-gif.gif" width="100%"></p>
 
-I'm a passionate software engineer with a diverse tech stack and a love for creating impactful applications and solutions. Let's connect and create something amazing together!
+<h3 align="center">🚀 Software Engineer | Web Developer | Data Enthusiast</h3>
 
-### 🎓 Education
+<p align="center">I'm a passionate software engineer with a diverse tech stack and a love for creating impactful applications and solutions. Let's connect and create something amazing together!</p>
+
+<p align="center"><img src="https://media.giphy.com/media/l4lRdl315eruX7S6Y/giphy-downsized-large.gif" width="100%"></p>
+
+## 🎓 Education
 
 - **BS Computer Engineering, Minor in Computer Science**
   - University of Hartford, West Hartford, CT
 
-### 💻 Skills
+## 💻 Skills
 
 - Frontend: HTML5, CSS3, JavaScript, TypeScript, React.js
 - Backend: Node.js, Express.js
@@ -23,10 +27,10 @@ I'm a passionate software engineer with a diverse tech stack and a love for crea
 - Machine Learning: TensorFlow, scikit-learn
 - Languages: Python, JavaScript, TypeScript, C++, Java
 
-### 🔥 Projects
+## 🔥 Projects
 
 Check out my [GitHub](https://github.com/jmenzies722) for a collection of projects showcasing my software skills. From web development with React.js to data analysis with Python, each project reflects my continuous learning and passion for software development.
 
-### ⚡ Let's Connect
+## ⚡ Let's Connect
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me via [email](mailto:jmenzies722@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/josh-m123456). Let's create something amazing!
