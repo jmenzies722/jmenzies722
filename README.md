@@ -1,4 +1,4 @@
-<h1 align="center">⭐️ Welcome! I'm Josh ⭐️</h1>
+<h1 align="center">⭐Welcome! I'm Josh ⭐️</h1>
 
 <p align="center">
   <a href="https://jmenzies722.github.io/Portfolio/" target="_blank">Website</a> •
