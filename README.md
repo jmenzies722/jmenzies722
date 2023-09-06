@@ -5,7 +5,7 @@
   <a href="https://linkedin.com/in/josh-m123456" target="_blank">🌐 Connect on LinkedIn</a>
 </p>
 
-<h1 align="center">👋 Hello There, I'm Josh</h1>
+<h1 align="center">👋 Hello, I'm Josh</h1>
 
 <h2 align="center">👨‍💻 Software Engineer | 🌐 Web Developer | 📈 Data Enthusiast</h2>
 
