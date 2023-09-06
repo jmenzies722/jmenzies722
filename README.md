@@ -1,10 +1,4 @@
 <!-- Header Section -->
-<p align="center">
-  <a href="https://jmenzies722.github.io/Menzies-Portfolio/port.html" target="_blank">🚀 Explore My Work</a> •
-  <a href="mailto:jmenzies722@gmail.com">📧 Get in Touch</a> •
-  <a href="https://linkedin.com/in/josh-m123456" target="_blank">🌐 Connect on LinkedIn</a>
-</p>
-
 <h1 align="center">👋 Hello, I'm Josh</h1>
 
 <h2 align="center">👨‍💻 Software Engineer | 🌐 Web Developer | 📈 Data Enthusiast</h2>
