@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <a href="https://jmenzies722.github.io/Portfolio/" target="_blank">🚀 Explore My Work</a> •
+  <a href="https://jmenzies722.github.io/Menzies-Portfolio/port.html" target="_blank">🚀 Explore My Work</a> •
   <a href="mailto:jmenzies722@gmail.com">📧 Get in Touch</a> •
   <a href="https://linkedin.com/in/josh-m123456" target="_blank">🌐 Connect on LinkedIn</a>
 </p>
@@ -10,7 +10,6 @@
 <h2 align="center">👨‍💻 Software Engineer | 🌐 Web Developer | 📈 Data Enthusiast</h2>
 
 <p align="center">Welcome to my corner of the digital universe. I'm Josh, a creator of code and a builder of digital dreams. Let's embark on a journey of innovation together!</p>
-
 <!-- Education Section -->
 <h2 align="center">🎓 Education</h2>
 
