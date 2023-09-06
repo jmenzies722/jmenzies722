@@ -30,7 +30,7 @@
 <h2 align="center">🔋 Projects</h2>
 
 <p align="center">
-  🚀 Check out my <a href="https://jmenzies722.github.io/Menzies-Portfolio/port.html">Website</a> • Explore My Work • <a href="https://github.com/jmenzies722">GitHub</a> for a collection of projects showcasing my software skills. From web development with React.js to data analysis with Python, each project reflects my continuous learning and passion for software development.
+  🚀 Check out my <a href="https://jmenzies722.github.io/Menzies-Portfolio/port.html">Website</a> and <a href="https://github.com/jmenzies722">GitHub</a> for a collection of projects showcasing my software skills. From web development with React.js to data analysis with Python, each project reflects my continuous learning and passion for software development.
 </p>
 
 
