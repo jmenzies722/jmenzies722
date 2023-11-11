@@ -7,7 +7,7 @@ Welcome to my digital space! As a Software Engineer and dream builder, let's emb
 - 🤝 Open to collaborations on **ML/AI SaaS applications.**
 - 👨‍💻 Seeking assistance with **AI/ML integration.**
 - 📫 Reach me at **[Jmenzies722@gmail.com](mailto:Jmenzies722@gmail.com)**
-- 📄 Explore my experiences [here](https://jshua.netlify.app).
+- 📄 Explore my Portfolio Website [here](https://jshua.netlify.app).
 - ⚡ Fun fact: I'm passionate about Computers and Software. When coding isn't the vibe, catch me playing basketball or exploring new destinations!
 
 ### Connect with me:
