@@ -1,4 +1,4 @@
-# Greetings! 👋 I'm Josh M.
+# Hello! 👋 I'm Josh M.
 
 Welcome to my digital space! As a Software Engineer and dream builder, let's embark on a journey of innovation together! 🚀
 
