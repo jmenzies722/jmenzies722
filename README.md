@@ -1,14 +1,32 @@
-# Hello! 👋 I'm Josh M.
+# Hi, I'm Josh.M 👋  
 
-Welcome to my digital space! As a Software Engineer and dream builder, let's embark on a journey of innovation together! 🚀
+I'm a Software Engineer and DevOps Enthusiast passionate about building scalable solutions and exploring the world of AI/ML.
 
-- 🔭 Currently crafting a **Notion Clone with AI integration.**
-- 🌱 Learning the ropes of **Next JS & Typescript.**
-- 🤝 Open to collaborations on **ML/AI SaaS applications.**
-- 👨‍💻 Seeking assistance with **AI/ML integration.**
-- 📫 Reach me at **[Jmenzies722@gmail.com](mailto:Jmenzies722@gmail.com)**
-- 💻 Explore my Portfolio Website [here](https://jshua.netlify.app).
-- ⚡ Fun fact: I'm passionate about Computers and Software. When coding isn't the vibe, catch me playing basketball or exploring new destinations!
+- 🌟 **Current Role**: Junior DevOps Engineer @ Nectar Services  
+- 🚀 **Working On**: Terraform Mastery & Cool CI/CD Projects  
+- 🌱 **Learning**: Advanced Serverless Architecture  
+- ⚡ **Fun Fact**: I blend AI innovation with DevOps automation!  
+
+---
+
+### 🛠️ Skills & Tools:
+- **Languages**: Python, JavaScript, Bash  
+- **Cloud**: AWS, GCP (basic familiarity)  
+- **DevOps**: Terraform, Jenkins, Docker, Kubernetes, OKD  
+- **AI/ML**: TensorFlow, OpenAI APIs (basics)  
+
+---
+
+### 📂 Highlighted Projects:
+- [**RUM Implementation**](#): Real User Monitoring for Nectar DXP, enhancing performance insights.  
+- [**Terraform Automation**](#): Automated resource provisioning in AWS for scalable architecture.  
+- [**Next.js Startup Repository**](#): Full-stack consolidated app using Next.js for frontend-backend synergy.
+
+---
+
+### 🔗 Connect With Me:
+- [LinkedIn](https://linkedin.com/in/yourname)  
+- [Portfolio](https://yourportfolio.com)  
 
 ### Connect with me:
 [LinkedIn](https://www.linkedin.com/in/josh-m123456/)
