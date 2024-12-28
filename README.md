@@ -25,7 +25,7 @@ I'm a Software Engineer and DevOps Enthusiast passionate about building scalable
 ---
 
 ### 🔗 Connect With Me:
-- [LinkedIn](https://linkedin.com/in/yourname)  
+- [LinkedIn] https://www.linkedin.com/in/josh-m123456/  
 - [Portfolio](https://yourportfolio.com)  
 
 ### Connect with me:
