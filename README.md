@@ -10,8 +10,8 @@ I'm a Software Engineer and DevOps Enthusiast passionate about building scalable
 ---
 
 ### 🛠️ Skills & Tools:
-- **Languages**: Python, JavaScript, Bash  
-- **Cloud**: AWS, GCP (basic familiarity)  
+- **Languages**: Python, JavaScript, Bash, PowerShell  
+- **Cloud**: AWS, GCP 
 - **DevOps**: Terraform, Jenkins, Docker, Kubernetes, OKD  
 - **AI/ML**: TensorFlow, OpenAI APIs (basics)  
 
