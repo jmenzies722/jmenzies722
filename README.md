@@ -1,28 +1,19 @@
-# Hello, Josh Here👋  
+# Josh Menzies
 
-I'm a Software Engineer and DevOps Enthusiast passionate about building scalable solutions and exploring the world of AI/ML.
+Engineer working at the intersection of **AI, cloud infrastructure, and reliability engineering**.  
+I design scalable systems, automate infrastructure, and explore how applied machine learning can improve developer experience and operations.  
 
-- 🌟 **Current Role**: Junior DevOps Engineer @ Nectar Services  
-- 🚀 **Working On**: Terraform Mastery & Cool CI/CD Projects  
-- 🌱 **Learning**: Advanced Serverless Architecture  
-- ⚡ **Fun Fact**: I blend AI innovation with DevOps automation!  
+Focus areas:  
+- Cloud-native platforms and Infrastructure as Code  
+- CI/CD automation and observability at scale  
+- LLMOps and monitoring AI systems in production  
 
----
-
-### 🛠️ Skills & Tools:
-- **Languages**: Python, JavaScript, Bash, PowerShell  
-- **Cloud**: AWS, GCP 
-- **DevOps**: Terraform, Jenkins, Docker, Kubernetes, OKD  
-- **AI/ML**: TensorFlow, OpenAI APIs (basics)  
-
----
-
-### 📂 Highlighted Projects:
-- [**RUM Implementation**](#): Real User Monitoring for Nectar DXP, enhancing performance insights.  
-- [**Terraform Automation**](#): Automated resource provisioning in AWS for scalable architecture.  
-- [**Next.js Startup Repository**](#): Full-stack consolidated app using Next.js for frontend-backend synergy.
-
----
+Core Skills:
+Languages: Python, JavaScript, Bash, PowerShell
+Cloud: AWS, GCP
+DevOps: Terraform, Jenkins, Docker, Kubernetes, OKD
+AI/ML: TensorFlow, Hugging Face, OpenAI APIs
+Observability: Datadog, Prometheus, Grafana
  
-### 🔗 Connect With Me:
+Connect With Me:
 - [LinkedIn](https://www.linkedin.com/in/josh-m123456/)
