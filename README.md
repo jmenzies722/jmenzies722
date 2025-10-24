@@ -1,41 +1,43 @@
-# 👋 Hey, I'm Josh Menzies  
-**AI & Platform Engineer | Cloud, DevOps, and Reliability Engineering**  
-Building scalable systems where automation meets intelligence.
+<p align="center">
+  <img src="github-header-banner.jpeg" alt="Josh M. — AI & Platform Engineer" width="100%" style="border-radius:12px;"/>
+</p>
+
+# Josh Menzies  
+**AI & Platform Engineer**  
+_Cloud • DevOps • Reliability Engineering_
 
 ---
 
-### 🧠 What I Do  
-I design **cloud-native platforms** and **automated infrastructures** that make teams faster, smarter, and more resilient.  
-Exploring how **machine learning + DevOps** can redefine developer experience and operations.
+### 🧭 About Me  
+Engineer working at the intersection of **AI, cloud infrastructure, and automation**.  
+I design scalable systems that self-observe, self-heal, and make teams faster and calmer.
 
-**Focus Areas**
-- ☁️ Infrastructure as Code & Cloud Architecture (AWS | GCP | Terraform)
-- ⚙️ CI/CD Automation & Observability at Scale (Jenkins | GitHub Actions | Prometheus)
-- 🧩 LLMOps & AI Monitoring in Production
-- 🔒 Secure & Cost-Efficient Platform Engineering
+Currently exploring how **machine learning and platform engineering** can merge to create intelligent, self-tuning infrastructures.
 
 ---
 
-### 🧰 Tech Stack
-`Python` · `TypeScript` · `Bash` · `Go`  
-`AWS` · `GCP` · `Kubernetes` · `Docker` · `Terraform`  
-`Jenkins` · `OpenAI API` · `Hugging Face` · `Datadog` · `Grafana`
+### ⚙️ Core Competencies  
+**Cloud & DevOps** — AWS · GCP · Terraform · Kubernetes · Docker  
+**Automation & CI/CD** — Jenkins · GitHub Actions · IaC workflows  
+**AI & Systems** — LLMOps · OpenAI API · Hugging Face · TensorFlow  
+**Observability & Reliability** — Datadog · Prometheus · Grafana
 
 ---
 
-### 🚀 Current Projects
-- **[WhisperNote](#)** – Voice-to-text with real-time tone analysis  
-- **[Opsy](#)** – Your AI-powered SRE colleague  
-- **[Shua.ai](https://shua-ai.vercel.app/)** – Experiments in AI systems and automation
+### 🧩 Featured Work  
+- **[WhisperNote](#)** — Voice-to-text with live tone analysis _(Swift, CoreML)_  
+- **[Opsy](#)** — AI-powered SRE colleague for automated reliability insights  
+- **[CI/CD Project](#)** — Scalable build pipelines with Terraform & Jenkins  
+- **[Velocity Cube](#)** — Experimental logic engine & visualizer in JavaScript  
+- **[Shua.ai](https://shua-ai.vercel.app)** — Personal lab for AI × Automation experiments  
 
 ---
 
-### 📈 Quick Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmenzies722&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmenzies722&layout=compact&theme=radical&hide_border=true)
+### 🌍 Connect  
+[LinkedIn](https://www.linkedin.com/in/josh-m123456) · [Website](https://shua-ai.vercel.app)
 
 ---
 
-### 🌍 Connect
-[LinkedIn](https://www.linkedin.com/in/josh-m123456)  
-[Website](https://shua-ai.vercel.app)  
+### 💡 Philosophy  
+> “Automate what you can, understand what you must.”  
+Always building at the edge of reliability, simplicity, and intelligence.
