@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-header-banner.png" alt="Josh M. — AI & Platform Engineer" width="100%" style="border-radius:12px;"/>
+  <img src="freepik-neon-gaming-profile-discord-banner-20251024192501fry9.png" alt="Josh M. — AI & Platform Engineer" width="100%" style="border-radius:12px;"/>
 </p>
 
 # Josh Menzies  
