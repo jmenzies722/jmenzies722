@@ -9,27 +9,25 @@ _Cloud • DevOps • Reliability Engineering_
 ---
 
 ### 🧭 About Me  
-Engineer working at the intersection of **AI, cloud infrastructure, and automation**.  
-I design scalable systems that self-observe, self-heal, and make teams faster and calmer.
-
-Currently exploring how **machine learning and platform engineering** can merge to create intelligent, self-tuning infrastructures.
+Engineer focused on building **scalable, intelligent, and resilient systems** at the intersection of AI and cloud infrastructure.  
+I design automation that learns, adapts, and keeps platforms running smoothly under real-world pressure.
 
 ---
 
-### ⚙️ Core Competencies  
-**Cloud & DevOps** — AWS · GCP · Terraform · Kubernetes · Docker  
-**Automation & CI/CD** — Jenkins · GitHub Actions · IaC workflows  
-**AI & Systems** — LLMOps · OpenAI API · Hugging Face · TensorFlow  
-**Observability & Reliability** — Datadog · Prometheus · Grafana
+### ⚙️ Core Stack  
+`Python` · `TypeScript` · `Go` · `Bash`  
+`AWS` · `GCP` · `Terraform` · `Kubernetes` · `Docker`  
+`Jenkins` · `GitHub Actions` · `Datadog` · `Prometheus` · `Grafana`  
+`OpenAI API` · `Hugging Face` · `TensorFlow`
 
 ---
 
-### 🧩 Featured Work  
-- **[WhisperNote](#)** — Voice-to-text with live tone analysis _(Swift, CoreML)_  
-- **[Opsy](#)** — AI-powered SRE colleague for automated reliability insights  
-- **[CI/CD Project](#)** — Scalable build pipelines with Terraform & Jenkins  
-- **[Velocity Cube](#)** — Experimental logic engine & visualizer in JavaScript  
-- **[Shua.ai](https://shua-ai.vercel.app)** — Personal lab for AI × Automation experiments  
+### 🚀 Projects  
+- **[WhisperNote](#)** — Voice-to-text with tone analysis _(Swift, CoreML)_  
+- **[Opsy](#)** — AI-powered SRE assistant for reliability insights  
+- **[CI/CD Pipeline](#)** — Fully automated infrastructure deployment  
+- **[Velocity Cube](#)** — Interactive JavaScript engine experiment  
+- **[Portfolio](https://shua-ai.vercel.app)** — My digital space for projects and experiments  
 
 ---
 
@@ -38,6 +36,6 @@ Currently exploring how **machine learning and platform engineering** can merge 
 
 ---
 
-### 💡 Philosophy  
+### 💡 Mindset  
 > “Automate what you can, understand what you must.”  
-Always building at the edge of reliability, simplicity, and intelligence.
+Constantly balancing simplicity, reliability, and innovation.
