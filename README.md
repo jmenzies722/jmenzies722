@@ -1,8 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-header-banner-dark.jpeg">
-  <source media="(prefers-color-scheme: light)" srcset="github-header-banner-light.jpeg">
-  <img src="github-header-banner-dark.jpeg" alt="Josh M. — AI & Platform Engineer" width="100%" style="border-radius:12px;"/>
-</picture>
+<p align="center">
+  <img src="github-header-banner.jpeg" alt="Josh M. — AI & Platform Engineer" width="100%" style="border-radius:12px;"/>
+</p>
 
 # Josh Menzies  
 **AI & Platform Engineer**  
