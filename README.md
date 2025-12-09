@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-header-banner (6).png" width="100%" style="border-radius:12px;"/>
+  <img src="github-header-banner (8).png" width="100%" style="border-radius:12px;"/>
 </p>
 
 **AI & Platform Engineer 💫**  
