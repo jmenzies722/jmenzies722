@@ -1,32 +1,23 @@
 <p align="center">
-  <img src="github-header-banner (8).png" width="100%" style="border-radius:12px;"/>
+  <img src="github-header-banner.png" width="100%" style="border-radius:12px;"/>
 </p>
 
-**AI & Platform Engineer 💫**  
-_Cloud • DevOps • Reliability Engineering_
+# **AI & Platform Engineer 💫**  
+_Cloud • Automation • Reliability Engineering_
 
 ---
 
 ### 🧭 About Me  
-Engineer focused on building **scalable, intelligent, and resilient systems** at the intersection of AI and cloud infrastructure.  
-I design automation that learns, adapts, and keeps platforms running smoothly under real-world pressure.
+Engineer focused on building adaptive, scalable, and resilient cloud platforms.  
+I work at the crossroads of infrastructure and intelligence, designing automation that stays observable, predictable, and robust under real-world load.
 
 ---
 
 ### ⚙️ Core Stack  
 `Python` · `TypeScript` · `Go` · `Bash`  
-`AWS` · `GCP` · `Terraform` · `Kubernetes` · `Docker`  
-`Jenkins` · `GitHub Actions` · `Datadog` · `Prometheus` · `Grafana`  
-`OpenAI API` · `Hugging Face` · `TensorFlow`
-
----
-
-### 🚀 Projects  
-- **[WhisperNote](#)** — Voice-to-text with tone analysis _(Swift, CoreML)_  
-- **[Opsy](#)** — AI-powered SRE assistant for reliability insights  
-- **[CI/CD Pipeline](#)** — Fully automated infrastructure deployment  
-- **[Velocity Cube](#)** — Interactive JavaScript engine experiment  
-- **[Portfolio](https://shua-ai.vercel.app)** — My digital space for projects and experiments  
+`AWS` · `GCP` · `Kubernetes` · `Terraform` · `Docker`  
+`GitHub Actions` · `Jenkins` · `Datadog` · `Prometheus` · `Grafana`  
+`OpenAI API` · `Hugging Face` · `CoreML` · `TensorFlow`
 
 ---
 
@@ -36,5 +27,5 @@ I design automation that learns, adapts, and keeps platforms running smoothly un
 ---
 
 ### 💡 Mindset  
-> “Automate what you can, understand what you must.”  
-Constantly balancing simplicity, reliability, and innovation.
+> “Automate with intent. Build with clarity. Ship with confidence.”  
+Engineering should stay simple on the surface and powerful underneath.
