@@ -8,7 +8,7 @@ _Cloud • Automation • Reliability Engineering_
 ---
 
 ### 🧭 About Me  
-Engineer focused on building adaptive, scalable, and resilient cloud platforms.  
+Platform Engineer focused on building adaptive, scalable, and resilient cloud platforms.  
 I work at the crossroads of infrastructure and intelligence, designing automation that stays observable, predictable, and robust under real-world load.
 
 ---
