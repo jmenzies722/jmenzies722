@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-header-banner (3).png" alt="Josh M. — AI & Platform Engineer" width="100%" style="border-radius:12px;"/>
+  <img src="ithub-header-banner (6).png" width="100%" style="border-radius:12px;"/>
 </p>
 
 **AI & Platform Engineer 💫**  
