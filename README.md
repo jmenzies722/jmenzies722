@@ -2,14 +2,14 @@
   <img src="github-header-banner (8).png" width="100%" style="border-radius:12px;"/>
 </p>
 
-# **AI & Platform Engineer 💫**  
-_Cloud • Automation • Reliability Engineering_
+# **Platform & AI Infrastructure Engineer**  
+_Cloud · Automation · Reliability · AI Tooling_
 
 ---
 
 ### 🧭 About Me  
-Platform Engineer focused on building adaptive, scalable, and resilient cloud platforms.  
-I work at the crossroads of infrastructure and intelligence, designing automation that stays observable, predictable, and robust under real-world load.
+Platform Engineer building at the intersection of cloud infrastructure and applied AI.  
+I design and operate resilient, observable systems — from multi-cloud pipelines to AI tooling rollouts — with a focus on real-world reliability and measurable business impact.
 
 ---
 
@@ -17,7 +17,7 @@ I work at the crossroads of infrastructure and intelligence, designing automatio
 `Python` · `TypeScript` · `Go` · `Bash`  
 `AWS` · `GCP` · `Kubernetes` · `Terraform` · `Docker`  
 `GitHub Actions` · `Jenkins` · `Datadog` · `Prometheus` · `Grafana`  
-`OpenAI API` · `Hugging Face` · `CoreML` · `TensorFlow`
+`AWS Bedrock` · `Claude API` · `LangGraph` · `CrewAI` · `Hugging Face` · `CoreML`
 
 ---
 
@@ -27,5 +27,5 @@ I work at the crossroads of infrastructure and intelligence, designing automatio
 ---
 
 ### 💡 Mindset  
-> “Automate with intent. Build with clarity. Ship with confidence.”  
+> "Infrastructure should disappear. Intelligence should amplify. Ship both with intent."  
 Engineering should stay simple on the surface and powerful underneath.
