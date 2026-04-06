@@ -2,30 +2,37 @@
   <img src="github-header-banner (8).png" width="100%" style="border-radius:12px;"/>
 </p>
 
-# **Platform & AI Infrastructure Engineer**  
-_Cloud · Automation · Reliability · AI Tooling_
+# Josh Menzies — AI Systems Builder
+
+Platform Engineer → AI Architect → Founder-in-progress.
+I build intelligent systems that automate work, ship products, and scale with intent.
 
 ---
 
-### 🧭 About Me  
-Platform Engineer building at the intersection of cloud infrastructure and applied AI.  
-I design and operate resilient, observable systems — from multi-cloud pipelines to AI tooling rollouts — with a focus on real-world reliability and measurable business impact.
+### 🚀 What I'm Building
+
+| Project | Description |
+|---------|-------------|
+| **[Arvis OS](https://github.com/jmenzies722/arvis-hq)** | Personal AI operating system — agents, automation, Telegram command center |
+| **[AgentCity](https://github.com/jmenzies722/agentcity)** | AI infrastructure visualized as a living city — deploy agents, watch your city grow |
+| **[Luminatra](https://github.com/jmenzies722/luminatra)** | Developer automation platform — AI-powered workflows & serverless orchestration |
+| **[Fuel AI](https://github.com/jmenzies722/fuel-ai)** | *(private)* |
 
 ---
 
-### ⚙️ Core Stack  
-`Python` · `TypeScript` · `Go` · `Bash`  
-`AWS` · `GCP` · `Kubernetes` · `Terraform` · `Docker`  
-`GitHub Actions` · `Jenkins` · `Datadog` · `Prometheus` · `Grafana`  
-`AWS Bedrock` · `Claude API` · `LangGraph` · `CrewAI` · `Hugging Face` · `CoreML`
+### ⚙️ Stack
+
+\`Python\` · \`TypeScript\` · \`Go\` · \`Bash\`
+\`AWS\` · \`GCP\` · \`Kubernetes\` · \`Terraform\` · \`Docker\`
+\`Claude API\` · \`AWS Bedrock\` · \`LangGraph\` · \`CrewAI\`
+\`GitHub Actions\` · \`Datadog\` · \`Prometheus\`
 
 ---
 
-### 🌍 Connect  
-[LinkedIn](https://www.linkedin.com/in/josh-m123456) · [Website](https://shua-ai.vercel.app)
+### 📡 Connect
+
+[LinkedIn](https://www.linkedin.com/in/josh-m123456) · [Portfolio](https://shua-ai.vercel.app)
 
 ---
 
-### 💡 Mindset  
-> "Infrastructure should disappear. Intelligence should amplify. Ship both with intent."  
-Engineering should stay simple on the surface and powerful underneath.
+> "Infrastructure should disappear. Intelligence should amplify. Ship both with intent."
