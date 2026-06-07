@@ -6,7 +6,7 @@
 
 New York &nbsp;·&nbsp; Shua Labs
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-menzies)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-m01/)
 
 </div>
 
