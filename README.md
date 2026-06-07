@@ -4,7 +4,7 @@
 
 **DevOps Engineer → Platform Engineer → AI Agentic Architect**
 
-New York &nbsp;·&nbsp; Nectar Services Corp &nbsp;·&nbsp; Shua Labs
+New York &nbsp;·&nbsp; Shua Labs
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-menzies)
 
