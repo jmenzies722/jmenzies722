@@ -2,37 +2,38 @@
   <img src="github-header-banner (8).png" width="100%" style="border-radius:12px;"/>
 </p>
 
-# Josh Menzies — AI Systems Builder
+# Josh Menzies — AI Systems Engineer
 
-Platform Engineer → AI Architect → Founder-in-progress.
-I build intelligent systems that automate work, ship products, and scale with intent.
-
----
-
-### 🚀 What I'm Building
-
-| Project | Description |
-|---------|-------------|
-| **[Arvis OS](https://github.com/jmenzies722/arvis-hq)** | Personal AI operating system — agents, automation, Telegram command center |
-| **[AgentCity](https://github.com/jmenzies722/agentcity)** | AI infrastructure visualized as a living city — deploy agents, watch your city grow |
-| **[Luminatra](https://github.com/jmenzies722/luminatra)** | Developer automation platform — AI-powered workflows & serverless orchestration |
-| **[Fuel AI](https://github.com/jmenzies722/fuel-ai)** | *(private)* |
+DevOps Engineer → Platform Engineer → AI Agentic Architect.  
+Building the infrastructure layer for the agent era at Shua Labs.
 
 ---
 
-### ⚙️ Stack
+### What I'm Building
 
-\`Python\` · \`TypeScript\` · \`Go\` · \`Bash\`
-\`AWS\` · \`GCP\` · \`Kubernetes\` · \`Terraform\` · \`Docker\`
-\`Claude API\` · \`AWS Bedrock\` · \`LangGraph\` · \`CrewAI\`
-\`GitHub Actions\` · \`Datadog\` · \`Prometheus\`
-
----
-
-### 📡 Connect
-
-[LinkedIn](https://www.linkedin.com/in/josh-m123456) · [Portfolio](https://shua-ai.vercel.app)
+| Project | What |
+|---------|------|
+| **[Axiom](https://github.com/jmenzies722/axiom)** *(private)* | npm + Docker Hub for AI agents — publish, install, and run agents across any protocol |
+| **[Lore](https://github.com/jmenzies722/lore)** | Agent governance — org context, permissions, and audit trail via MCP server |
+| **[Luminatra](https://github.com/jmenzies722/luminatra)** *(private)* | Developer automation platform — AI agents, workflow orchestration, serverless |
+| **[Forge](https://github.com/jmenzies722/forge)** | AWS-native internal developer platform — golden paths, self-service, ECS Fargate |
+| **[Auris](https://github.com/jmenzies722/auris)** *(private)* | Native macOS voice app — speak to AI, it executes |
 
 ---
 
-> "Infrastructure should disappear. Intelligence should amplify. Ship both with intent."
+### Stack
+
+`Python` · `TypeScript` · `Go` · `Swift`  
+`AWS` · `Terraform` · `Docker` · `GitHub Actions`  
+`Claude API` · `Anthropic SDK` · `MCP`  
+`Datadog` · `FastAPI` · `Next.js`
+
+---
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/josh-menzies)
+
+---
+
+> "Ship agents. Own the layer. Build companies."
