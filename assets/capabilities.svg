@@ -1,61 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="What I build — agentic frameworks, developer productivity, production-grade AI">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" width="1200" height="250" role="img" aria-label="What I build — agentic frameworks, developer productivity, production-grade AI">
   <defs>
-    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0d1117"/>
-      <stop offset="1" stop-color="#010409"/>
-    </linearGradient>
-    <linearGradient id="acc2" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#58a6ff"/>
-      <stop offset="1" stop-color="#39d0d8"/>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0e1013"/>
+      <stop offset="1" stop-color="#08090b"/>
     </linearGradient>
     <style>
-      .t { font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 600; }
-      .d { font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 400; }
+      .t { font-family: -apple-system, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 600; }
+      .d { font-family: -apple-system, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 400; }
     </style>
   </defs>
 
-  <rect width="1200" height="260" fill="url(#bg2)"/>
-  <rect x="0.5" y="0.5" width="1199" height="259" fill="none" stroke="#1f2630" stroke-width="1"/>
-  <rect x="0" y="0" width="1200" height="3" fill="url(#acc2)"/>
+  <rect width="1200" height="250" fill="url(#bg2)"/>
 
-  <!-- column dividers -->
-  <line x1="400" y1="52" x2="400" y2="208" stroke="#1f2630" stroke-width="1"/>
-  <line x1="800" y1="52" x2="800" y2="208" stroke="#1f2630" stroke-width="1"/>
+  <!-- column dividers (subtle) -->
+  <line x1="400" y1="60" x2="400" y2="200" stroke="#20242a" stroke-width="1"/>
+  <line x1="800" y1="60" x2="800" y2="200" stroke="#20242a" stroke-width="1"/>
 
-  <!-- Column 1 — Agentic frameworks (agent-node icon) -->
-  <g transform="translate(200,78)" stroke="url(#acc2)" fill="none" stroke-width="1.6">
+  <!-- Column 1 — Agentic frameworks -->
+  <g transform="translate(200,80)" stroke="#aeb4bd" fill="none" stroke-width="1.5">
     <circle cx="-16" cy="-6" r="4"/><circle cx="16" cy="-6" r="4"/><circle cx="0" cy="12" r="4"/>
     <line x1="-13" y1="-4" x2="-2" y2="9"/><line x1="13" y1="-4" x2="2" y2="9"/><line x1="-12" y1="-6" x2="12" y2="-6"/>
   </g>
-  <text x="200" y="128" text-anchor="middle" class="t" font-size="20" fill="#f0f6fc">Agentic frameworks</text>
-  <text text-anchor="middle" class="d" font-size="13.5" fill="#8b949e">
-    <tspan x="200" y="158">MCP servers, governance, and</tspan>
+  <text x="200" y="130" text-anchor="middle" class="t" font-size="19" fill="#f5f5f7">Agentic frameworks</text>
+  <text text-anchor="middle" class="d" font-size="13" fill="#86868b">
+    <tspan x="200" y="159">MCP servers, governance, and</tspan>
     <tspan x="200" y="178">harnesses that let agents operate</tspan>
-    <tspan x="200" y="198">safely inside real codebases</tspan>
+    <tspan x="200" y="197">safely inside real codebases</tspan>
   </text>
 
-  <!-- Column 2 — Developer productivity (layered paths icon) -->
-  <g transform="translate(600,72)" stroke="url(#acc2)" fill="none" stroke-width="1.6" stroke-linecap="round">
+  <!-- Column 2 — Developer productivity -->
+  <g transform="translate(600,74)" stroke="#aeb4bd" fill="none" stroke-width="1.5" stroke-linecap="round">
     <line x1="-18" y1="0" x2="18" y2="0"/>
     <line x1="-18" y1="8" x2="10" y2="8"/>
     <line x1="-18" y1="16" x2="2" y2="16"/>
   </g>
-  <text x="600" y="128" text-anchor="middle" class="t" font-size="20" fill="#f0f6fc">Developer productivity</text>
-  <text text-anchor="middle" class="d" font-size="13.5" fill="#8b949e">
-    <tspan x="600" y="158">Golden-path platforms and internal</tspan>
+  <text x="600" y="130" text-anchor="middle" class="t" font-size="19" fill="#f5f5f7">Developer productivity</text>
+  <text text-anchor="middle" class="d" font-size="13" fill="#86868b">
+    <tspan x="600" y="159">Golden-path platforms and internal</tspan>
     <tspan x="600" y="178">tooling that remove the toil so</tspan>
-    <tspan x="600" y="198">engineers move faster</tspan>
+    <tspan x="600" y="197">engineers move faster</tspan>
   </text>
 
-  <!-- Column 3 — Production-grade AI (shield icon) -->
-  <g transform="translate(1000,74)" stroke="url(#acc2)" fill="none" stroke-width="1.6" stroke-linejoin="round">
+  <!-- Column 3 — Production-grade AI -->
+  <g transform="translate(1000,76)" stroke="#aeb4bd" fill="none" stroke-width="1.5" stroke-linejoin="round">
     <path d="M0,-10 L14,-4 L14,6 C14,14 7,18 0,20 C-7,18 -14,14 -14,6 L-14,-4 Z"/>
-    <path d="M-6,4 L-1,9 L7,-2" stroke-width="1.8"/>
+    <path d="M-6,4 L-1,9 L7,-2" stroke-width="1.7"/>
   </g>
-  <text x="1000" y="128" text-anchor="middle" class="t" font-size="20" fill="#f0f6fc">Production-grade AI</text>
-  <text text-anchor="middle" class="d" font-size="13.5" fill="#8b949e">
-    <tspan x="1000" y="158">Observability and guardrails</tspan>
+  <text x="1000" y="130" text-anchor="middle" class="t" font-size="19" fill="#f5f5f7">Production-grade AI</text>
+  <text text-anchor="middle" class="d" font-size="13" fill="#86868b">
+    <tspan x="1000" y="159">Observability and guardrails</tspan>
     <tspan x="1000" y="178">for AI agents running</tspan>
-    <tspan x="1000" y="198">in the wild</tspan>
+    <tspan x="1000" y="197">in the wild</tspan>
   </text>
 </svg>
