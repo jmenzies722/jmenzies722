@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Josh Menzies — Platform Engineer building the infrastructure AI agents run on">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#010409"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#39d0d8"/>
+    </linearGradient>
+    <style>
+      .name { font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 700; }
+      .tag  { font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 400; }
+      .chip { font-family: 'SF Mono', 'Consolas', 'Menlo', monospace; font-weight: 500; letter-spacing: 1px; }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="none" stroke="#1f2630" stroke-width="1"/>
+
+  <!-- subtle dot grid -->
+  <g fill="#20272f">
+    <circle cx="70"  cy="40" r="1.4"/><circle cx="110" cy="40" r="1.4"/><circle cx="150" cy="40" r="1.4"/>
+    <circle cx="70"  cy="80" r="1.4"/><circle cx="110" cy="80" r="1.4"/>
+  </g>
+
+  <!-- layered-platform motif (right) -->
+  <g stroke="url(#accent)">
+    <polygon points="985,108 1150,108 1112,150 947,150" fill="#58a6ff" fill-opacity="0.16" stroke-opacity="0.55" stroke-width="1.5"/>
+    <polygon points="965,150 1130,150 1092,192 927,192" fill="#39d0d8" fill-opacity="0.11" stroke-opacity="0.40" stroke-width="1.5"/>
+    <polygon points="945,192 1110,192 1072,234 907,234" fill="#58a6ff" fill-opacity="0.07" stroke-opacity="0.28" stroke-width="1.5"/>
+  </g>
+  <!-- agent nodes above the layer -->
+  <g>
+    <line x1="1010" y1="70" x2="1010" y2="108" stroke="#58a6ff" stroke-opacity="0.35" stroke-width="1.2"/>
+    <line x1="1067" y1="62" x2="1067" y2="108" stroke="#39d0d8" stroke-opacity="0.35" stroke-width="1.2"/>
+    <line x1="1122" y1="72" x2="1122" y2="108" stroke="#58a6ff" stroke-opacity="0.35" stroke-width="1.2"/>
+    <circle cx="1010" cy="66" r="4" fill="#58a6ff"/>
+    <circle cx="1067" cy="58" r="4" fill="#39d0d8"/>
+    <circle cx="1122" cy="68" r="4" fill="#58a6ff"/>
+  </g>
+
+  <!-- text block -->
+  <text x="72" y="132" class="name" font-size="54" fill="#f0f6fc" letter-spacing="4">JOSH MENZIES</text>
+  <rect x="74" y="150" width="132" height="3" rx="1.5" fill="url(#accent)"/>
+
+  <text x="74" y="196" class="tag" font-size="22" fill="#c9d1d9">Platform Engineer &#8212; building the infrastructure AI agents run on</text>
+
+  <g class="chip" font-size="16" fill="#8b949e">
+    <text x="74" y="250">AWS</text>
+    <text x="150" y="250" fill="#58a6ff">/</text>
+    <text x="170" y="250">Terraform</text>
+    <text x="292" y="250" fill="#58a6ff">/</text>
+    <text x="312" y="250">Kubernetes</text>
+    <text x="452" y="250" fill="#58a6ff">/</text>
+    <text x="472" y="250">MCP</text>
+    <text x="524" y="250" fill="#58a6ff">/</text>
+    <text x="544" y="250">Agentic Systems</text>
+  </g>
+
+  <!-- footer mark -->
+  <text x="74" y="292" class="chip" font-size="13" fill="#4b5560">SHUA LABS &#183; build in the open, own the layer</text>
+</svg>
