@@ -16,7 +16,7 @@
 
 ---
 
-I'm obsessed with the layer where **AI agents meet production** — building agentic systems, MCP servers, and developer-productivity tooling that turn agents into teammates that actually ship. Safe, observable, fast enough to trust. I build in the open, and I build for real use.
+I work at the layer where **AI agents meet production** — building agentic systems, MCP servers, and developer-productivity tooling that turn agents into teammates that actually ship. Safe, observable, fast enough to trust. I build in the open, and I build for real use.
 
 ### ⚡ What I'm about
 
