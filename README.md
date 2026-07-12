@@ -4,9 +4,9 @@
 
 ### Platform Engineer building the infrastructure AI agents run on
 
-**DevOps → Platform Engineering → AI Agentic Architecture**
+🤖 &nbsp;*I love building AI tools that make engineers faster — and harnessing agentic frameworks to do it.*
 
-New York, NY
+**DevOps → Platform Engineering → AI Agentic Architecture** &nbsp;·&nbsp; New York, NY
 
 [![Shua Labs](https://img.shields.io/badge/Shua_Labs-Live-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://shua-labs.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-m01/)
@@ -16,7 +16,15 @@ New York, NY
 
 ---
 
-I build the layer AI agents run on — **safe, observable, deployable**. Golden-path platforms, agent governance, and production-readiness tooling. Everything I ship is pinned below — most of it is live in a browser.
+I'm obsessed with the layer where **AI agents meet production** — building agentic systems, MCP servers, and developer-productivity tooling that turn agents into teammates that actually ship. Safe, observable, fast enough to trust. I build in the open, and I build for real use.
+
+### ⚡ What I'm about
+
+- 🤖 **Agentic frameworks** — MCP servers, agent governance, and harnesses that let AI agents operate safely inside real codebases
+- 🚀 **Developer productivity** — golden-path platforms and internal tooling that kill the toil so engineers move faster
+- 🔍 **Production-grade AI** — OpenTelemetry-style observability and guardrails for agents running in the wild
+
+> Everything I ship is pinned below — most of it is live in a browser. ↓
 
 ---
 
@@ -34,6 +42,7 @@ I build the layer AI agents run on — **safe, observable, deployable**. Golden-
 &nbsp;
 ![Claude](https://img.shields.io/badge/Claude_API-1a1a1a?style=flat-square&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-1a1a1a?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-1a1a1a?style=flat-square&logo=anthropic&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=nextdotjs&logoColor=white)
 
