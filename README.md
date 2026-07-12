@@ -1,8 +1,6 @@
 <div align="center">
 
-# Josh M.
-
-### Platform Engineer building the infrastructure AI agents run on
+<img src="./assets/banner.svg" alt="Josh Menzies — Platform Engineer building the infrastructure AI agents run on" width="100%" />
 
 *I build AI tools that make engineers faster — and harness agentic frameworks to do it.*
 
