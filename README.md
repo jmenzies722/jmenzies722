@@ -4,7 +4,7 @@
 
 ### Platform Engineer building the infrastructure AI agents run on
 
-🤖 &nbsp;*I love building AI tools that make engineers faster — and harnessing agentic frameworks to do it.*
+*I build AI tools that make engineers faster — and harness agentic frameworks to do it.*
 
 **DevOps → Platform Engineering → AI Agentic Architecture** &nbsp;·&nbsp; New York, NY
 
@@ -18,17 +18,19 @@
 
 I work at the layer where **AI agents meet production** — building agentic systems, MCP servers, and developer-productivity tooling that turn agents into teammates that actually ship. Safe, observable, fast enough to trust. I build in the open, and I build for real use.
 
-### ⚡ What I'm about
+### What I'm about
 
-- 🤖 **Agentic frameworks** — MCP servers, agent governance, and harnesses that let AI agents operate safely inside real codebases
-- 🚀 **Developer productivity** — golden-path platforms and internal tooling that kill the toil so engineers move faster
-- 🔍 **Production-grade AI** — OpenTelemetry-style observability and guardrails for agents running in the wild
+**Agentic frameworks** — MCP servers, agent governance, and harnesses that let AI agents operate safely inside real codebases
 
-> Everything I ship is pinned below — most of it is live in a browser. ↓
+**Developer productivity** — golden-path platforms and internal tooling that remove the toil so engineers move faster
+
+**Production-grade AI** — observability and guardrails for agents running in the wild
+
+> Everything I ship is pinned below — most of it is live in a browser.
 
 ---
 
-### ⚙️ Stack
+### Stack
 
 ![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=white)
@@ -42,17 +44,18 @@ I work at the layer where **AI agents meet production** — building agentic sys
 &nbsp;
 ![Claude](https://img.shields.io/badge/Claude_API-1a1a1a?style=flat-square&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-1a1a1a?style=flat-square&logo=modelcontextprotocol&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-1a1a1a?style=flat-square&logo=anthropic&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=nextdotjs&logoColor=white)
 
 ---
 
-### 🔭 Currently
+### Currently
 
-- Building **Shua Labs** — hosted agent workflows for teams that can't run them safely themselves
-- Publishing **AWS Architect MCP** to npm for public release
-- Designing **agent tracing** — OpenTelemetry-compatible observability for AI agents in production
+**Building** &nbsp;Shua Labs — hosted agent workflows for teams that can't run them safely themselves
+
+**Publishing** &nbsp;AWS Architect MCP to npm for public release
+
+**Designing** &nbsp;agent tracing — OpenTelemetry-compatible observability for AI agents in production
 
 ---
 
