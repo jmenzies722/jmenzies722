@@ -44,17 +44,6 @@ agents into teammates that actually ship — safe, observable, fast enough to tr
 ![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=nextdotjs&logoColor=white)
 
-<br>
-
-### Currently
-
-**Building** &nbsp;Shua Labs — hosted agent workflows for teams that can't run them safely themselves
-
-**Publishing** &nbsp;AWS Architect MCP to npm for public release
-
-**Designing** &nbsp;agent tracing — OpenTelemetry-compatible observability for AI agents in production
-
-<br>
 
 Build in the open &nbsp;·&nbsp; Own the layer
 
