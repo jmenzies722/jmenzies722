@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Josh Menzies — Platform Engineer building the infrastructure AI agents run on" width="100%" />
+<img src="./assets/header.svg" alt="Josh Menzies — Platform Engineer building the infrastructure AI agents run on; agentic frameworks, developer productivity, production-grade AI" width="100%" />
 
 </div>
-
-<br>
-
-<img src="./assets/build.svg" alt="What I build — agentic frameworks, developer productivity, production-grade AI" width="100%" />
 
 <br>
 
