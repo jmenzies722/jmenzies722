@@ -2,31 +2,30 @@
 
 <img src="./assets/banner.svg" alt="Josh Menzies — Platform Engineer building the infrastructure AI agents run on" width="100%" />
 
-*I build AI tools that make engineers faster — and harness agentic frameworks to do it.*
+<br>
 
-**DevOps → Platform Engineering → AI Agentic Architecture** &nbsp;·&nbsp; New York, NY
+**Platform Engineer** &nbsp;·&nbsp; **AI Developer Enablement** &nbsp;·&nbsp; New York
 
 [![Shua Labs](https://img.shields.io/badge/Shua_Labs-Live-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://shua-labs.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-m01/)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmenzies722@gmail.com)
 
+<br>
+
+### I build the layer where AI agents meet production
+
+Agentic systems, MCP servers, and developer-productivity tooling that turn<br>
+agents into teammates that actually ship — safe, observable, fast enough to trust.
+
 </div>
 
----
+<br>
 
-I work at the layer where **AI agents meet production** — building agentic systems, MCP servers, and developer-productivity tooling that turn agents into teammates that actually ship. Safe, observable, fast enough to trust. I build in the open, and I build for real use.
+<img src="./assets/capabilities.svg" alt="What I build — agentic frameworks, developer productivity, production-grade AI" width="100%" />
 
-### What I'm about
+<br>
 
-**Agentic frameworks** — MCP servers, agent governance, and harnesses that let AI agents operate safely inside real codebases
-
-**Developer productivity** — golden-path platforms and internal tooling that remove the toil so engineers move faster
-
-**Production-grade AI** — observability and guardrails for agents running in the wild
-
-> Everything I ship is pinned below — most of it is live in a browser.
-
----
+<div align="center">
 
 ### Stack
 
@@ -36,8 +35,8 @@ I work at the layer where **AI agents meet production** — building agentic sys
 &nbsp;
 ![AWS](https://img.shields.io/badge/AWS-1a1a1a?style=flat-square&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-1a1a1a?style=flat-square&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1a1a1a?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a1a1a?style=flat-square&logo=githubactions&logoColor=white)
 &nbsp;
 ![Claude](https://img.shields.io/badge/Claude_API-1a1a1a?style=flat-square&logo=anthropic&logoColor=white)
@@ -45,7 +44,7 @@ I work at the layer where **AI agents meet production** — building agentic sys
 ![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=nextdotjs&logoColor=white)
 
----
+<br>
 
 ### Currently
 
@@ -55,10 +54,8 @@ I work at the layer where **AI agents meet production** — building agentic sys
 
 **Designing** &nbsp;agent tracing — OpenTelemetry-compatible observability for AI agents in production
 
----
+<br>
 
-<div align="center">
-
-*Build in the open. Own the layer.*
+Build in the open &nbsp;·&nbsp; Own the layer
 
 </div>
