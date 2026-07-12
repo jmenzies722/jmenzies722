@@ -1,6 +1,6 @@
 <div align="center">
 
-# Josh Menzies
+# Josh M.
 
 ### Platform Engineer building the infrastructure AI agents run on
 
