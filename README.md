@@ -6,44 +6,70 @@
 
 <br>
 
-<div align="center"><b>Explore below ↓</b></div>
+Platform engineer in New York. I build the layer AI agents actually run on — the
+tooling, guardrails, and infrastructure that make them safe to operate in production
+rather than impressive in a demo.
 
-<br>
+Everything below is something you can clone, run, or click.
 
-<details>
-<summary><b>&nbsp;&nbsp;Featured work</b></summary>
+---
 
-<br>
+## Things you can use right now
 
-**[AWS Architect MCP](https://github.com/jmenzies722/aws-architect-mcp)** &nbsp;·&nbsp; MCP · TypeScript
-Turns an AI agent into an AWS solutions architect — selects a reference pattern from a goal, then emits production-grade Terraform, IAM policy, and cost estimates.
+### 🧊 [CubeCoach](https://github.com/jmenzies722/cubecoach) · **[live demo →](https://cubecoach-three.vercel.app)**
 
-**[Forge](https://github.com/jmenzies722/forge)** &nbsp;·&nbsp; Python
-AWS-native internal developer platform: control plane, golden paths, and self-service deployments, with AI agents on ECS Fargate.
+Solve any Rubik's Cube and actually learn how. Interactive 3D cube, full beginner
+layer-by-layer method, step-by-step coaching at every stage. The solver is verified
+against exhaustive search, so the method it teaches is provably complete — it will
+never walk you into a dead end.
 
-**[Lore](https://github.com/jmenzies722/lore)** &nbsp;·&nbsp; MCP · TypeScript
-Org-aware knowledge graph delivered as an MCP server — context, permissions, and an audit trail for any agent, from a single config block.
+`React` `Three.js` `WebGL`
 
-**[claude-setup](https://github.com/jmenzies722/claude-setup)** &nbsp;·&nbsp; Shell · Python
-Claude Code environment auditor — scores your setup 0–100, detects your profile, and fixes it atomically.
+### 🔄 [mcp-sync](https://github.com/jmenzies722/mcp-sync)
 
-</details>
+One MCP server set across Claude Code, Cursor, Warp, and Claude Desktop — from a
+single canonical file. Detects silent config drift and unresolved env vars, the
+failure mode where one tool quietly loses a server and you don't notice for weeks.
+Zero dependencies, pure standard library.
 
-<details>
-<summary><b>&nbsp;&nbsp;What I'm working on now</b></summary>
+`Python` `MCP`
 
-<br>
+### ☁️ [AWS Architect MCP](https://github.com/jmenzies722/aws-architect-mcp)
 
-- **Building** &nbsp;Shua Labs — hosted agent workflows for teams that can't run them safely themselves
-- **Publishing** &nbsp;AWS Architect MCP to npm for public release
-- **Designing** &nbsp;agent tracing — OpenTelemetry-compatible observability for AI agents in production
+Turns an AI agent into an AWS solutions architect. Give it a goal; it selects a
+reference pattern and emits production-grade Terraform, a scoped IAM policy, and a
+cost estimate — instead of hallucinating an architecture from scratch.
 
-</details>
+`TypeScript` `MCP` `Terraform`
 
-<details>
-<summary><b>&nbsp;&nbsp;Stack</b></summary>
+### 📊 [claude-max](https://github.com/jmenzies722/claude-max)
 
-<br>
+Scores your entire Claude Code setup 0–100 across nine dimensions, then fixes what
+it finds. Built because "am I using this well?" had no honest answer.
+
+`Shell` `Claude Code`
+
+### 🧪 [Shua Labs](https://github.com/jmenzies722/shua-labs) · **[site →](https://shua-labs.vercel.app)**
+
+Home for the free tooling above. Tools for running AI agents in production — safe,
+observable, cheap to operate.
+
+`Next.js` `TypeScript`
+
+---
+
+## What I'm working on
+
+- **A local Kubernetes platform** — k3d, Helm, and ArgoCD, split into how the cluster
+  is built and what runs on it, so the GitOps boundary is a real one
+- **AWS DevOps Professional (DOP-C02)** — studied through a live multi-account lab
+  rather than practice exams
+- **Agent infrastructure** — MCP servers, registries, and drift detection for
+  multi-agent setups that outgrow a single config file
+
+---
+
+## Stack
 
 ![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=white)
@@ -55,10 +81,7 @@ Claude Code environment auditor — scores your setup 0–100, detects your prof
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a1a1a?style=flat-square&logo=githubactions&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_API-1a1a1a?style=flat-square&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-1a1a1a?style=flat-square&logo=modelcontextprotocol&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=nextdotjs&logoColor=white)
-
-</details>
 
 <br>
 
