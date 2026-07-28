@@ -27,7 +27,7 @@ layer-by-layer method, step-by-step coaching at every stage. The solver is verif
 exhaustive search, so the method it teaches is provably complete — it will never walk you into
 a dead end.
 
-<sub><img src="./assets/icons/react.svg" width="14" align="top" /> React &nbsp;·&nbsp; <img src="./assets/icons/threejs.svg" width="14" align="top" /> Three.js &nbsp;·&nbsp; WebGL</sub>
+<sub>`React` &nbsp;·&nbsp; `Three.js` &nbsp;·&nbsp; `WebGL`</sub>
 
 ---
 
@@ -45,7 +45,7 @@ non-zero, so it works as a CI gate.
 
 Zero third-party dependencies, single file, 21 tests green on Linux, macOS, and Windows.
 
-<sub><img src="./assets/icons/python.svg" width="14" align="top" /> Python &nbsp;·&nbsp; <img src="./assets/icons/modelcontextprotocol.svg" width="14" align="top" /> MCP</sub>
+<sub>`Python` &nbsp;·&nbsp; `MCP`</sub>
 
 ---
 
@@ -60,7 +60,7 @@ will invent an architecture from scratch, confidently. This gives it a library o
 patterns to select from instead — then emits production-grade Terraform, a least-privilege IAM
 policy, and a cost estimate before anything is applied.
 
-<sub><img src="./assets/icons/typescript.svg" width="14" align="top" /> TypeScript &nbsp;·&nbsp; <img src="./assets/icons/modelcontextprotocol.svg" width="14" align="top" /> MCP &nbsp;·&nbsp; <img src="./assets/icons/terraform.svg" width="14" align="top" /> Terraform</sub>
+<sub>`TypeScript` &nbsp;·&nbsp; `MCP` &nbsp;·&nbsp; `Terraform`</sub>
 
 ---
 
@@ -75,7 +75,7 @@ settings, MCP, portability, memory, output style, cross-tool unification — the
 fixes it finds. It scores what is on disk rather than what you assume is there, and refuses to
 credit configuration that does not actually do anything.
 
-<sub><img src="./assets/icons/bash.svg" width="14" align="top" /> Shell &nbsp;·&nbsp; <img src="./assets/icons/anthropic.svg" width="14" align="top" /> Claude Code</sub>
+<sub>`Shell` &nbsp;·&nbsp; `Claude Code`</sub>
 
 ---
 
@@ -88,7 +88,7 @@ credit configuration that does not actually do anything.
 Home for the tooling above. Tools for running AI agents in production — safe, observable, cheap
 to operate.
 
-<sub><img src="./assets/icons/nextjs.svg" width="14" align="top" /> Next.js &nbsp;·&nbsp; <img src="./assets/icons/typescript.svg" width="14" align="top" /> TypeScript</sub>
+<sub>`Next.js` &nbsp;·&nbsp; `TypeScript`</sub>
 
 <br>
 
