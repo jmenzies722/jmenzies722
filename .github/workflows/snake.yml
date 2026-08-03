@@ -1,0 +1,35 @@
+name: snake
+
+# Renders the contribution graph as a snake SVG and publishes it to the `output`
+# branch. The README points at raw.githubusercontent.com on that branch, so the
+# image is served from this repo — no third-party service to rate-limit or die.
+
+on:
+  schedule:
+    - cron: "17 */12 * * *"
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate snake
+        uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-dark.svg?color_snake=#f0f6fc&color_dots=#161b22,#2d333b,#4d5560,#768390,#adbac7
+            dist/snake-light.svg?color_snake=#1f2328&color_dots=#ebedf0,#c9d1d9,#8c959f,#57606a,#24292f
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

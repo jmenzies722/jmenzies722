@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Josh Menzies — Platform Engineer. I build the layer AI agents run on. Platform engineering, agent infrastructure, New York.">
+  <defs>
+    <style>
+      .n { font-family: 'Helvetica Neue', -apple-system, 'Segoe UI', Arial, sans-serif; font-weight: 700; }
+      .t { font-family: 'Helvetica Neue', -apple-system, 'Segoe UI', Arial, sans-serif; font-weight: 400; }
+      .k { font-family: 'Helvetica Neue', -apple-system, 'Segoe UI', Arial, sans-serif; font-weight: 500; }
+    </style>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.16"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="#0a0a0a"/>
+
+  <!-- the layer AI agents run on, stated as a mark rather than a diagram -->
+  <g transform="translate(985,150)" stroke="url(#fade)" fill="none" stroke-width="1.25" stroke-linejoin="round">
+    <polygon points="0,-96 150,-34 0,28 -150,-34"/>
+    <polygon points="0,-56 150,6 0,68 -150,6"/>
+    <polygon points="0,-16 150,46 0,108 -150,46"/>
+  </g>
+
+  <text x="88" y="126" class="n" font-size="62" fill="#fafafa" letter-spacing="-1.2">Josh Menzies</text>
+  <line x1="90" y1="156" x2="330" y2="156" stroke="#3a3f45" stroke-width="1.5"/>
+  <text x="88" y="196" class="t" font-size="23" fill="#9aa2ab" letter-spacing="0.1">I build the layer AI agents run on.</text>
+
+  <!-- 17px here is deliberate: the README renders 1200 wide at ~880, so this lands at ~12px -->
+  <text x="88" y="248" class="k" font-size="17" fill="#6e7681" letter-spacing="2">PLATFORM ENGINEERING &#160;&#160;/&#160;&#160; AGENT INFRASTRUCTURE &#160;&#160;/&#160;&#160; NEW YORK</text>
+</svg>
