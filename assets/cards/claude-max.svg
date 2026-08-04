@@ -1,27 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 200" width="560" height="200" role="img" aria-label="CLAUDE-MAX">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 108" width="280" height="108" role="img" aria-label="claude-max">
   <defs>
     <style>
       .n { font-family: 'Helvetica Neue', -apple-system, 'Segoe UI', Arial, sans-serif; font-weight: 700; }
-      .b { font-family: 'Helvetica Neue', -apple-system, 'Segoe UI', Arial, sans-serif; font-weight: 400; }
       .m { font-family: 'Helvetica Neue', -apple-system, 'Segoe UI', Arial, sans-serif; font-weight: 500; }
     </style>
   </defs>
-
-  <rect x="0.75" y="0.75" width="558.5" height="198.5" rx="12" fill="#0a0a0a" stroke="#23272d" stroke-width="1.5"/>
-
-  <g transform="translate(34,32) scale(1.25)">
-    <path fill="#6e7681" d="M17.3041 3.541h-3.6718l6.696 16.918H24Zm-10.6082 0L0 20.459h3.7442l1.3693-3.5527h7.0052l1.3693 3.5528h3.7442L10.5363 3.5409Zm-.3712 10.2232 2.2914-5.9456 2.2914 5.9456Z"/>
-  </g>
-
-  <text x="76" y="52" class="n" font-size="25" fill="#fafafa" letter-spacing="0.6">CLAUDE-MAX</text>
+  <rect x="0.75" y="0.75" width="278.5" height="106.5" rx="10" fill="#0a0a0a" stroke="#23272d" stroke-width="1.5"/>
+  <g transform="translate(20,22) scale(1.05)"><path fill="#6e7681" d="M17.3041 3.541h-3.6718l6.696 16.918H24Zm-10.6082 0L0 20.459h3.7442l1.3693-3.5527h7.0052l1.3693 3.5528h3.7442L10.5363 3.5409Zm-.3712 10.2232 2.2914-5.9456 2.2914 5.9456Z"/></g>
   
-
-  <text class="b" font-size="18" fill="#9aa2ab">
-    <tspan x="34" y="104">Scores a Claude Code setup 0–100 on what is</tspan>
-    <tspan x="34" y="131">actually on disk — then fixes what it finds.</tspan>
-  </text>
-
-  <line x1="34" y1="152" x2="526" y2="152" stroke="#23272d" stroke-width="1"/>
-  <text x="34" y="178" class="m" font-size="15" fill="#6e7681" letter-spacing="0.4">Shell  ·  Claude Code</text>
-  <text x="526" y="179" text-anchor="end" class="m" font-size="19" fill="#6e7681">&#8594;</text>
+  <text x="20" y="66" class="n" font-size="18" fill="#fafafa">claude-max</text>
+  <text x="20" y="88" class="m" font-size="12.5" fill="#6e7681" letter-spacing="0.2">Shell · Claude Code</text>
 </svg>
