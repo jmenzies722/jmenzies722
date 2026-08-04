@@ -7,7 +7,6 @@
 [![Shua Labs](https://img.shields.io/badge/site-shua--labs.vercel.app-545d68?style=flat-square&labelColor=30363d)](https://shua-labs.vercel.app) &nbsp; [![LinkedIn](https://img.shields.io/badge/linkedin-josh--m01-3d444d?style=flat-square&labelColor=272c33&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-m01/) &nbsp; [![Email](https://img.shields.io/badge/email-jmenzies722%40gmail.com-3d444d?style=flat-square&labelColor=272c33&logo=gmail&logoColor=white)](mailto:jmenzies722@gmail.com)
 
 </div>
----
 <div align="center">
 
 <a href="https://github.com/jmenzies722/cubecoach"><img src="./assets/cards/cubecoach.svg" width="48%" alt="CubeCoach — learn to solve any Rubik's Cube in interactive 3D" /></a> <a href="https://github.com/jmenzies722/mcp-sync"><img src="./assets/cards/mcp-sync.svg" width="48%" alt="mcp-sync — one MCP server set across four tools" /></a>
