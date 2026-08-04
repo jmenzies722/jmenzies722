@@ -10,11 +10,9 @@
 
 <br>
 
-Platform engineer in New York. I build the layer AI agents actually run on — the tooling,
-guardrails, and infrastructure that make them safe to operate in production rather than
-impressive in a demo.
-
-Everything below is released, licensed, and something you can clone, run, or click.
+Platform engineer in New York building agent infrastructure — MCP servers, guardrails, and
+developer platforms on AWS, Kubernetes, and Terraform. Everything below is released, MIT
+licensed, and runnable.
 
 <br>
 
