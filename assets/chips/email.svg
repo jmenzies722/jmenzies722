@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 30" width="200" height="30" role="img" aria-label="jmenzies722@gmail.com">
+  <defs><style>.t{font-family:'Helvetica Neue',-apple-system,'Segoe UI',Arial,sans-serif;font-weight:500;}</style></defs>
+  <rect x="0.75" y="0.75" width="198.5" height="28.5" rx="15" fill="#0a0a0a" stroke="#23272d" stroke-width="1.5"/>
+  <g transform="translate(14,8)" stroke="#6e7681" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="0" y="1.5" width="14" height="11" rx="2"/>
+      <path d="M0.5 3 L7 8.5 L13.5 3"/>
+    </g>
+  <text x="38" y="19.5" class="t" font-size="12.5" fill="#6e7681" letter-spacing="0.2">jmenzies722@gmail.com</text>
+</svg>

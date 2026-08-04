@@ -2,7 +2,7 @@
 
 <img src="./assets/header-v5.svg" alt="Josh Menzies — Platform Engineer. Agent infrastructure — MCP servers, guardrails, developer platforms. New York." width="100%" />
 
-<sub><a href="https://shua-labs.vercel.app">shua-labs.vercel.app</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/josh-m01/">linkedin/josh-m01</a> &nbsp;·&nbsp; <a href="mailto:jmenzies722@gmail.com">jmenzies722@gmail.com</a></sub>
+<a href="https://shua-labs.vercel.app"><img src="./assets/chips/site.svg" height="30" alt="shua-labs.vercel.app" /></a> <a href="https://www.linkedin.com/in/josh-m01/"><img src="./assets/chips/linkedin.svg" height="30" alt="linkedin/josh-m01" /></a> <a href="mailto:jmenzies722@gmail.com"><img src="./assets/chips/email.svg" height="30" alt="jmenzies722@gmail.com" /></a>
 
 </div>
 
